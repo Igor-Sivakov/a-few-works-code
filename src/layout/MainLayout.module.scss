@@ -1,0 +1,16 @@
+.logo {
+  height: 42px;
+  width: 220px;
+  margin: 20px 0px 20px 10px;
+  font-size: 22px;
+  font-family: 'Climate Crisis', cursive;
+  background: linear-gradient(
+    90deg,
+    #b4ff6e 0%,
+    #60e2f7 25%,
+    #f6ed71 50%,
+    #e465fd 100%
+  );
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
